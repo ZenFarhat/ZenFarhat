@@ -1,6 +1,6 @@
 ### https://zenfarhat.github.io/portfoliowebsite/ - WIP :)
-### 🔭 I’m currently working on a portfolio & a fully functional ecommerce platform to practice coding
-### 🌱 I’m currently learning React, Node & MongoDB
+### 🔭 I’m currently working on >>> https://challenge-f061e.web.app/
+### 🌱 I’m currently learning React
 ### 📫 How to reach me: zeinfarhat6@gmail.com
 ###
 ###
