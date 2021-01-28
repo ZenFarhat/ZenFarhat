@@ -1,5 +1,4 @@
-### https://zenfarhat.github.io/portfoliowebsite/ - WIP :)
-### 🔭 I’m currently working on an Amazon clone using React >>> https://challenge-f061e.web.app/
+### 🔭 I’m currently working on a few projects >>> https://zenfarhat.github.io/portfoliowebsite/#projects
 ### 🌱 I’m currently learning React
 ### 📫 How to reach me: zeinfarhat6@gmail.com
 ###
