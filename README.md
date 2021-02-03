@@ -1,7 +1,7 @@
 ### 🔭 I’m currently working on a few projects >>> https://zenfarhat.github.io/portfoliowebsite/#projects
 ### 🌱 I’m currently learning React
 ### 📫 How to reach me: zeinfarhat6@gmail.com
-###
+### https://zenfarhat.github.io/portfoliov2/ under construction
 ###
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZenFarhat&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenFarhat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
