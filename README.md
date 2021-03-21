@@ -1,5 +1,4 @@
 ### 🔭 http://www.zenfarhat.com/
-### 🌱 I’m currently learning React
 ### 📫 How to reach me: zeinfarhat6@gmail.com
 ###
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZenFarhat&count_private=true)
