@@ -6,6 +6,9 @@
 </center>
 
 ##Contact me here:
+
 Email: Zeinfarhat6@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/zeneff/
+
 Discord: Zen#5000
