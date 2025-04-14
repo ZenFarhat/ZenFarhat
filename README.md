@@ -1,15 +1,15 @@
 Hi 👋 My name is Zen
 ====================
 
-Software Developer
+Software Engineer
 ------------------
 
 Frontend-oriented software developer who came from a biomedicine background
 
-* 🌍  I'm based in Melbourne, Australia
+* 🌍  I'm based in Dubai, UAE
 * 🖥️  See my portfolio at [https://www.zenfarhat.dev/](http://www.zenfarhat.dev/)
 * ✉️  You can contact me at [zeinfarhat6@gmail.com](mailto:zeinfarhat6@gmail.com)
-* 🧠  I'm learning everything to do with AI
+* 🧠  I'm learning everything to do with AI, GoLang & C#
 * 🤝  I'm open to collaborating on volunteering, open-source
 
 ### Skills
