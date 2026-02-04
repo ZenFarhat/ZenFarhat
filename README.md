@@ -6,7 +6,7 @@ Software Engineer
 
 I've been coding for the past 5 years across consulting companies, large tech companies & startups. Always eager to adapt and progress with new tech.
 
-* 🌍  I'm based in Dubai, UAE
+* 🌍  I'm based in Melbourne, Australia
 * 🖥️  See my portfolio at [zenfarhat.dev](http://www.zenfarhat.dev)
 * ✉️  You can contact me at [zeinfarhat6@gmail.com](mailto:zeinfarhat6@gmail.com)
 * 🧠  I'm learning GoLang
